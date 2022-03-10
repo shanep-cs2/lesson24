@@ -6,6 +6,10 @@ In this lab you will write your own version of insertion sort and then write a s
 ensure that your algorithm is correct. The insertion sort algorithm is given to you in the book
 your task is to write tests and make the required modifications.
 
+## Videos
+
+- [Lab Overview]()
+
 ## Task 1 - Write Unit tests
 
 We will be sorting arrays of integers so it will be quite easy to construct a set of tests that we
