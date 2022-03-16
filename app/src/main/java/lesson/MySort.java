@@ -1,7 +1,5 @@
 package lesson;
 
-public class MySort {
-
-    //TODO
+public class MySort implements InsertionSort{
 
 }
