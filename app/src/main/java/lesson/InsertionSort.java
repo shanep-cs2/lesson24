@@ -24,10 +24,5 @@ public interface InsertionSort<T> {
      * @return The number of Swaps that we made in the sort
      */
     public int getNumSwaps();
-
-    /**
-     * @return The number of comparisons that we made during the sort
-     */
-    public int getNumComparisons(); 
-    
+   
 }
