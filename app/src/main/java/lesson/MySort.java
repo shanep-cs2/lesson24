@@ -1,5 +1,5 @@
 package lesson;
 
-public class MySort implements InsertionSort{
+public class MySort<T> implements InsertionSort<T>{
 
 }
