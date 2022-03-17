@@ -7,6 +7,9 @@ ensure that your algorithm is correct. The insertion sort algorithm is given to 
 however it is written to only use arrays of integers. Our implementation is going to use the
 List interface and work with any object using generics!
 
+The Wikipedia article on [insertion sort](https://en.wikipedia.org/wiki/Insertion_sort) is pretty
+good and has some further information about how to implement this algorithm.
+
 ## Videos
 
 - [Lab Overview]()
@@ -43,26 +46,18 @@ The **App.java** class will do the following:
 For your **App.java** class you can assume that the input will always be integers! You don't have
 to worry about any other types.
 
-## Example
+## Example Output
 
-Input:
-
-```
-6 3 2 1 5 9 8
-```
-
-Output:
+Given the input array of `[3, 2, 1, 5, 9, 8]` your output will be as follows:
 
 ```
-3 2 1 5 9 8
+[3, 2, 1, 5, 9, 8]
 
-2 3 1 5 9 8
-1 2 3 5 9 8
-1 2 3 5 9 8
-1 2 3 5 9 8
-1 2 3 5 8 9
-
-comparisons: 7
+[2, 3, 1, 5, 9, 8]
+[1, 2, 3, 5, 9, 8]
+[1, 2, 3, 5, 9, 8]
+[1, 2, 3, 5, 9, 8]
+[1, 2, 3, 5, 8, 9]
 swaps: 4
 ```
 
