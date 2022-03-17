@@ -12,7 +12,7 @@ good and has some further information about how to implement this algorithm.
 
 ## Videos
 
-- [Lab Overview]()
+- [Lab Overview](https://youtu.be/TVgAsAkUzLU)
 
 ## Task 1 - Write Unit tests
 
@@ -40,7 +40,7 @@ The **App.java** class will do the following:
 - Parse in a set of integers from standard in.
 - Output the unsorted array
 - Perform an insertion sort on the array.
-- Output the number of comparisons and swaps performed.
+- Output the number of swaps performed.
 - Output the array at each step in the sort process
 
 For your **App.java** class you can assume that the input will always be integers! You don't have
