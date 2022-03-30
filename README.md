@@ -10,9 +10,10 @@ List interface and work with any object using generics!
 The Wikipedia article on [insertion sort](https://en.wikipedia.org/wiki/Insertion_sort) is pretty
 good and has some further information about how to implement this algorithm.
 
-## Videos
+## Important Links
 
 - [Lab Overview](https://youtu.be/TVgAsAkUzLU)
+- [Class Coding standards](https://shanep-cs2.github.io/docs/coding-standards.html)
 
 ## Task 1 - Write Unit tests
 
